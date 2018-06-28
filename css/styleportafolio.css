@@ -1,0 +1,26 @@
+.dropdown-item:hover {
+    background-color: aqua;
+}
+.jumbotron {
+    padding: 1rem 1rem;
+
+}
+
+.navbar-brand:hover {
+    background-color: gold;
+}
+
+.alert {
+    padding: .5rem 1rem;
+}
+.why {
+    font-weight: bold;
+    height: 200px;
+    width: 200px;
+}
+.why:hover {
+    background-color: blue;
+    
+}
+
+
