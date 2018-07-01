@@ -95,3 +95,19 @@ font-family: 'Times New Roman', Times, serif;
 .dropdown-item:hover {
     background-color: aqua;
 }
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+@media only screen and (max-width: 949px) {
+   .container {
+       width: 100%;
+   }
+   #me{
+       width: 25%;
+   }
+   #bio {
+       width: 75%;
+   }
+}
